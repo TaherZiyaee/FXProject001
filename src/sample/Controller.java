@@ -15,9 +15,6 @@ import java.util.ResourceBundle;
 
 public class Controller implements Initializable {
 
-    private static double xOffset;
-    private static double yOffset;
-
     @FXML
     private ImageView btnSettings, btnUser, btnClose;
     @FXML
