@@ -5,6 +5,7 @@
 .sldBrightness > .thumb {
     -fx-background-color: #cda144;
 }
+
 .sldBrightness > .colored-track {
     -fx-background-color: #ddc698;
 }
